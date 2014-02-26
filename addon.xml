@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
-  id="skin.confluence"
-  version="2.2.8"
-  name="Confluence"
-  provider-name="Jezz_X, Team XBMC">
+  id="skin.Lusitania"
+  version="1.0.0"
+  name="Lusitania"
+  provider-name="Romano">
   <requires>
     <import addon="xbmc.gui" version="5.0.0"/>
   </requires>
